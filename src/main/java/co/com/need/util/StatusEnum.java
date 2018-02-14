@@ -7,7 +7,7 @@ public enum StatusEnum {
     CODE_EXPIRED_TOKEN("97"),
     DESC_EXPIRED_TOKEN("Token expirado"),
     CODE_INVALID_TOKEN("98"),
-    DESC_INVALID_TOKEN("Token inválido"),
+    DESC_INVALID_TOKEN("Token incorrecto"),
     CODE_ERROR("99"),
     DESC_ERROR("Error");
     
