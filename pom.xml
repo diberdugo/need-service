@@ -89,6 +89,7 @@
                             <failOnMissingWebXml>false</failOnMissingWebXml>
                             <outputDirectory>target</outputDirectory>
                             <warName>ROOT</warName>
+                            <encoding>UTF-8</encoding>
                         </configuration>
                     </plugin>
                 </plugins>
